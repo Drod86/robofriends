@@ -1,0 +1,10 @@
+h1 {
+	font-family: 'Bangers', cursive;
+	color: white;
+    font-weight: 200;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
